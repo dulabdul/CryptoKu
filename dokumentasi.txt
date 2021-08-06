@@ -1,0 +1,24 @@
+Tahap installation
+
+npm install to install node-modules
+npm run build to build
+npm run start-dev to start in localhost
+
+Fitur :
+PWA(Progressive Web Apps) membuat website memiliki tingkah laku seperti apps native, seperti add to home screen, splash scree, mode akses ofline
+
+Dibangun dengan :
+HTML
+CSS
+JS
+Webpack
+Workbox
+PWA
+IndexedDB
+
+Tools :
+Vscode
+Eslint
+
+Code Conventation :
+AirBnB
